@@ -7,12 +7,12 @@
 Read Getting started tutorials
 
 - [x] What kind of data does pandas handle?
-- [] How do I read and write tabular data?
-- [] What kind of data does pandas handle?
-- [] What kind of data does pandas handle?
-- [] What kind of data does pandas handle?
-- [] What kind of data does pandas handle?
-- [] What kind of data does pandas handle?
+- [ ] How do I read and write tabular data?
+- [ ] What kind of data does pandas handle?
+- [ ] What kind of data does pandas handle?
+- [ ] What kind of data does pandas handle?
+- [ ] What kind of data does pandas handle?
+- [ ] What kind of data does pandas handle?
 
 [pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
 
