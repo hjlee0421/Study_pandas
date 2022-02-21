@@ -7,12 +7,15 @@
 Read Getting started tutorials
 
 - [x] What kind of data does pandas handle?
-- [ ] How do I read and write tabular data?
-- [ ] What kind of data does pandas handle?
-- [ ] What kind of data does pandas handle?
-- [ ] What kind of data does pandas handle?
-- [ ] What kind of data does pandas handle?
-- [ ] What kind of data does pandas handle?
+- [x] How do I read and write tabular data?
+- [x] How do I select a subset of a DataFrame?
+- [x] How to create plots in pandas?
+- [x] How to create new columns derived from existing columns?
+- [x] How to calculate summary statistics?
+- [x] How to reshape the layout of tables?
+- [x] How to combine data from multiple tables?
+- [x] How to handle time series data with ease?
+- [] How to manipulate textual data?
 
 [pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
 
