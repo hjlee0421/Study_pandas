@@ -15,7 +15,7 @@ Read Getting started tutorials
 - [x] How to reshape the layout of tables?
 - [x] How to combine data from multiple tables?
 - [x] How to handle time series data with ease?
-- [] How to manipulate textual data?
+- [x] How to manipulate textual data?
 
 [pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
 
