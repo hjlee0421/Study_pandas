@@ -5,15 +5,15 @@
 [pandas Getting Started](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
 
 Read Getting started tutorials
-```
-- [] What kind of data does pandas handle?
+
+- [x] What kind of data does pandas handle?
 - [] How do I read and write tabular data?
 - [] What kind of data does pandas handle?
 - [] What kind of data does pandas handle?
 - [] What kind of data does pandas handle?
 - [] What kind of data does pandas handle?
 - [] What kind of data does pandas handle?
-```
+
 [pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
 
 [pandas API Reference](https://pandas.pydata.org/docs/reference/index.html#api)
