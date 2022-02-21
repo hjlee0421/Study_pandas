@@ -19,6 +19,10 @@ Read Getting started tutorials
 
 [pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
 
+Intro to data structures
+- [x] Series
+- [ ] DataFrame
+
 [pandas API Reference](https://pandas.pydata.org/docs/reference/index.html#api)
 
 
